@@ -7,7 +7,7 @@ def selectData():
     pass
 
 root = Tk()
-root.title("컴퓨터과 3학년 1반 0번 강인구") 
+root.title("컴퓨터과 3학년 1반 5번 김도현") 
 edtFrame = Frame(root)
 edtFrame.pack()
 
